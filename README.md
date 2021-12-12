@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nokeen12
+- 👋 Hi, I’m Cordre - (Core - Dre)
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on any projects that'll give me experience
