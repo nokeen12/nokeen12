@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cordre - (Core - Dre)
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning Front-end Development
-- 💞️ I’m looking to collaborate on any projects that'll give me experience
+- 🌱 I’m currently learning Full-Stack Development with Ironhack
+- 💞️ I’m looking to collaborate on any projects that will hopefully teach me something new
 - 📫 How to reach me:
   * email: cordrepayne@gmail.com
   * discord: Nokeen#4329
