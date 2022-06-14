@@ -6,7 +6,7 @@
   * email: cordrepayne@gmail.com
   * discord: Nokeen#4329
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nokeen12)](https://github.com/nokeen12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nokeen12)](https://github.com/nokeen12/github-readme-stats)
 
 [![nokeen12's GitHub stats](https://github-readme-stats.vercel.app/api?username=nokeen12)](https://github.com/nokeen12/github-readme-stats)
 
