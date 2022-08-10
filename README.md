@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cordre - (Core - Dre)
+- 🌱 I’m a Full-Stack Developer
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently learning Full-Stack Development with Ironhack
 - 💞️ I’m looking to collaborate on any projects that will hopefully teach me something new
 - 📫 How to reach me:
   * email: cordrepayne@gmail.com
